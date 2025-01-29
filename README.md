@@ -35,3 +35,18 @@ The main challenge in this project was managing the timing of flower visibility 
 ## Reflection
 
 This project allowed me to explore random movement, time-based behavior, and interactivity within p5.js. It was enjoyable to see the bees move in different ways each time and the flowers respond to the user’s clicks. I’m happy with the way the bees behave in a varied manner, and I look forward to adding more interactive features and improving the visual effects in future updates.
+
+
+**Reference List:**
+
+1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
+   
+2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
+   
+3. Reddit User. (2021, March 9). Is getting stuck in corners a known problem with? Reddit. Retrieved from [https://www.reddit.com/r/gamemaker/comments/mpgw2y/is_getting_stuck_in_corners_a_know_problem_with/](https://www.reddit.com/r/gamemaker/comments/mpgw2y/is_getting_stuck_in_corners_a_know_problem_with/)
+
+---
+
+**Declaration:**
+
+I declare that I received help with my coding from my flatmate, who is experienced with programming. Additionally, I conducted several quick Google searches to resolve issues encountered during the development process. These searches helped in understanding how to implement specific features and troubleshoot problems, especially related to p5.js, as well as getting advice from relevant forums and communities.
